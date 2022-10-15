@@ -1,0 +1,5 @@
+30 DAYS OF WEBDEV
+
+DAY 1
+
+A bias for action is definitely the way to go, so I'll leave the exposition for another time. Tonight we're going to set up a bare-bones Astro project, and start work translating the first Prinsloo template into Astro. Let's do this.
