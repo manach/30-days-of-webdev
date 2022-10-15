@@ -1,0 +1,11 @@
+Day 2/30
+
+Today we're going to see if we can get the personal website redeployed in Astro.
+
+This feels doable. Sections we'll need:
+* blog
+* resume
+* About Me
+* Landing page
+
+Let's see how it goes!

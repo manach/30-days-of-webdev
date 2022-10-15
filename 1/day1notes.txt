@@ -1,0 +1,8 @@
+Day 1 Notes:
+
+* Took me 2.5 hours to get a basic starter template set up with Tailwind, Header, and Footer. Lessons learned:
+  * astro-seo (https://github.com/jonasmerlin/astro-seo) looks very good
+  * There is going to be a learning curve with little stuff like passing in props and fighting with config, and that's ok.
+  * I'm learning how to use Astro, and I'm building up my collection of templates--I'm making concrete progress toward a commercially-viable webdev skill!
+  * I'll build out Prinsloo's templates in Astro (complete with reusable components like buttons etc) and then I'll... probably start looking at other templates, building those out. Get to where I either have a big array of templates I can use, or get to where I can quickly copy an existing website, or both.
+  * 
